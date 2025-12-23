@@ -1,7 +1,7 @@
 # Mateusz CristalCodeAI - GitHub Profile
 <p align="center">
- <a href="https://skillicons.dev">
-[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,windows)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="My Skills" />
   </a>
 </p>
 Python developer based in Katowice, Poland. 
