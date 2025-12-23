@@ -1,11 +1,24 @@
-# Mateusz CristalCodeAI - GitHub Profile
+# Mateusz CristalCodeAI
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" />
+  </a>
+  <span>&nbsp;&gt;&nbsp;</span>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+  </a>
+  <span>&nbsp;&gt;&nbsp;</span>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
   </a>
 </p>
-Python developer based in Katowice, Poland. 
 
+Python developer based in Katowice, Poland. 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,python,docker,fastapi,git,postgres" alt="Tools" />
+  </a>
+</p>
 ---
 
 ## About
