@@ -27,7 +27,7 @@ Python developer based in Katowice, Poland.
 | [Project 3](link) | One sentence about the goal | [tech, tech] |
 
 ## Tech stack
-- Systems: <p align="center">
+- Systems: <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" />
   </a>
@@ -40,17 +40,17 @@ Python developer based in Katowice, Poland.
     <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
   </a>
 </p>
-- Languages: <p align="center">
+- Languages: <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,sql,html" alt="Tools" />
   </a>
 </p>
-- Frameworks:<p align="center">
+- Frameworks:<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=fastapi,qt" alt="Tools" />
   </a>
 </p>
-- Tools: <p align="center">
+- Tools: <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git,figma,matlab" alt="Tools" />
   </a>
@@ -64,8 +64,8 @@ Python developer based in Katowice, Poland.
 
 ## Contact
 
-- Email: mateusz.nawrot.code.ai@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mateusz-nawrot-cristalcode/
+- Email: <a href="mailto:mateusz.nawrot.code.ai@gmail.com"><img src="https://img.shields.io/badge/Email-mateusz.nawrot.code.ai%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/mateusz-nawrot-cristalcode/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
 - Portfolio: [link]
 
 ---
