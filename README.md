@@ -27,13 +27,13 @@ Python developer based in Katowice, Poland.
 | [Project 3](link) | One sentence about the goal | [tech, tech] |
 
 ## Tech stack
-- Systems:
+- Systems:<br />
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
-- Languages:
+- Languages:<br />
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,html" alt="Languages" /></a>
-- Frameworks:
+- Frameworks:<br />
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,qt" alt="Frameworks" /></a>
-- Tools:
+- Tools:<br />
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git,figma,matlab" alt="Tools" /></a>
 
 
