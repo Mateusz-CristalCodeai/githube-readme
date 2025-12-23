@@ -10,7 +10,7 @@ Python developer based in Katowice, Poland.
 - Role: Python developer
 - Location: Katowice, Poland
 - Interests: [3 short items]
-- Currently: [what you are learning or building]
+- Currently: Building an app for senior care facilities that helps manage HR resources and analyze medical data.
 
 ## What I do
 
