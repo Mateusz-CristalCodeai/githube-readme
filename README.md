@@ -1,17 +1,13 @@
 # Mateusz CristalCodeAI 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" />
-  </a>
-  <span>&nbsp;&gt;&nbsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
-  </a>
-  <span>&nbsp;&gt;&nbsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-  </a>
-</p>
+```text
+SYSTEM: Arch Linux
++-- ENVIRONMENT: Docker
+    +-- LANGUAGE: Python
+        +-- fastapi
+        +-- pydantic
+        +-- sqlalchemy
+        \-- psycopg
+```
 
 Python developer based in Katowice, Poland. 
 <p align="center">
