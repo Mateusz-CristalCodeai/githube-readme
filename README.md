@@ -44,9 +44,9 @@ Python developer based in Katowice, Poland.
 
 ## Contact
 
-- Email: <a href="mailto:mateusz.nawrot.code.ai@gmail.com"><img src="https://img.shields.io/badge/Email-mateusz.nawrot.code.ai%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-- LinkedIn: <a href="https://www.linkedin.com/in/mateusz-nawrot-cristalcode/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-- Portfolio: [link]
+ <a href="mailto:mateusz.nawrot.code.ai@gmail.com"><img src="https://img.shields.io/badge/Email-mateusz.nawrot.code.ai%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ <a href="https://www.linkedin.com/in/mateusz-nawrot-cristalcode/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+
 
 ---
 
