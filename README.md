@@ -33,26 +33,31 @@ Currently: Building an app for senior care facilities that helps manage HR resou
 | Novaap| Desktop application for managing medical processes with a graphical user interface, touch mode, and a local Bielik chat based on an LLM. | [Python, Qt (Qt Widgets/QML), PostgreSQL, Docker] |
 
 ## Tech stack
-
-- Systems & Distros:<br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows" alt="Systems & Distros" />
-  </a>
-
-- Languages:<br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html" alt="Languages" />
-  </a>
-
-- Frameworks:<br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,qt" alt="Frameworks" />
-  </a>
-
-- Tools:<br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git,figma,matlab" alt="Tools" />
-  </a>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      <strong>Systems & Distros</strong><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,windows" alt="Systems & Distros" />
+      </a><br /><br />
+      <strong>Languages</strong><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,html" alt="Languages" />
+      </a><br /><br />
+      <strong>Frameworks</strong><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=fastapi,qt" alt="Frameworks" />
+      </a><br /><br />
+      <strong>Tools</strong><br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,postgres,sqlite,git,figma,matlab" alt="Tools" />
+      </a>
+    </td>
+    <td valign="middle" align="right">
+      <img src="assets/1000007684.jpg" alt="Tech stack illustration" height="220" />
+    </td>
+  </tr>
+</table>
 
 ## Now / Next
 -  Working on the release of a medical application  
