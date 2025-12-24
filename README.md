@@ -1,14 +1,5 @@
-<style>
-:root,
-body,
-.markdown-body {
-  font-family: "Matrix Code", "Share Tech Mono", "JetBrains Mono", ui-monospace, SFMono-Regular,
-    Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-}
-</style>
-
 # <img src="assets/matrix_all_in_one_no_eye_strain.gif" alt="Matrix banner" />
-
+<font color="#00ff41">
 
 Python developer based in Katowice, Poland. 
 
@@ -16,11 +7,15 @@ Python developer based in Katowice, Poland.
 
 ## About
 
-<div class="matrix">
-Role: Python developer<br>
-Location: Katowice, Poland<br>
-Interests: [3 short items]<br>
+<div align="left">
+
+
+Role: Python developer
+Location: Katowice, Poland
+Interests: [3 short items]
 Currently: Building an app for senior care facilities that helps manage HR resources and analyze medical data.
+
+  </pre>
 </div>
 
 ## What I do
