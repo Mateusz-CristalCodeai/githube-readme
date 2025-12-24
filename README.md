@@ -1,4 +1,4 @@
-# <img src="assets/hyperkitty.gif" alt="Hyperkitty" width="32" /> Mateusz CristalCodeAI <img src="assets/cat-roll.gif" alt="Cat roll" width="32" />
+# <img src="assets/matrix_all_in_one_no_eye_strain.gif" alt="Matrix banner" />
 
 
 Python developer based in Katowice, Poland. 
