@@ -2,7 +2,7 @@
 <font color="#00ff41">
 
 Python developer based in Katowice, Poland. 
-
+![snake animation](https://raw.githubusercontent.com/Mateusz-CristalCodeai/githube-readme/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ## About
@@ -12,7 +12,7 @@ Python developer based in Katowice, Poland.
 
 Role: Python developer
 Location: Katowice, Poland
-Interests: [3 short items]
+Interests: Bimed, Finance, Code
 Currently: Building an app for senior care facilities that helps manage HR resources and analyze medical data.
 
   </pre>
@@ -52,6 +52,8 @@ Currently: Building an app for senior care facilities that helps manage HR resou
 
  <a href="mailto:mateusz.nawrot.code.ai@gmail.com"><img src="https://img.shields.io/badge/Email-mateusz.nawrot.code.ai%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
  <a href="https://www.linkedin.com/in/mateusz-nawrot-cristalcode/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+
+
 
 
 ---
